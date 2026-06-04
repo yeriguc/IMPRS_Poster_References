@@ -1,6 +1,6 @@
 # OHBM 2026 Poster References Doruk Yiğit Erigüç
 
-# Convergence and divergence of subregional connectivity patterns in the human medial temporal lobe
+# Selective convergence and graded divergence of hippocampal and amygdalar subregions in cortical connectivity
 
 1- Ranganath, C., & Ritchey, M. (2012). Two cortical systems for memory-guided behaviour. Nature Reviews. Neuroscience, 13(10), 713–726. https://doi.org/10.1038/nrn3338
 
